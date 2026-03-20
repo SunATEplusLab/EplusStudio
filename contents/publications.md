@@ -1,16 +1,43 @@
-#### Submitted
+#### Conference Papers (Accepted/Submitted)
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>S. Li</strong>, X. Li (2026). Trustworthy and Interpretable Wind Power Forecasting: A Probabilistic MLP-RF Hybrid Framework with LIME and KDE. <strong>2026 IEEE 8th International Conference on Communications, Information System and Computer Engineering (IEEE-CISCE)</strong>.
 
-#### Published
+- <strong>Y. Zhao</strong>, X. Du, S. Li, S. Li (2026). Deep Adversarial Synthesis Coupled with Spatio-Temporal Attention Distillation for Interpretable Stroke Risk Stratification. <strong>The 5th International Conference on Electronics Technology and Artificial Intelligence (ETAI)</strong>.
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>G. Li</strong> (2025). Beyond the Data: Developing a Strategic Barometer for China's Pet Industry via a Novel Entropy-CV-Game Theory Fusion Model. <strong>2025 4th International Conference on Artificial Intelligence and Education (ICAIE)</strong>.
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>W. Sun</strong>, Q. Geng, X. Du, Y. Lou (2025). Research on Typhoon Classification and Track Prediction Based on Integrated Models. <strong>2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)</strong>. [[Paper]](https://ieeexplore.ieee.org/document/11290614)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>W. Sun</strong> (2024). Cross-network Intrusion Detection Based On Self-attention Mechanism Hybrid Neural Network. <strong>2024 International Conference on Image Processing, Computer Vision and Machine Learning (ICICML)</strong>. [[Paper]](https://doi.org/10.1109/ICICML63543.2024.10958130)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+#### Journal Articles (Accepted)
 
+- <strong>W. Xu</strong>, L. Zhao, B. Zhang (2026). Privacy-Preserving Anomaly Detection for Industrial Internet of Things: A Robust Federated Autoencoder Method. <strong>Innovation and Technology Frontier</strong>.
+
+- <strong>Y. Zhang</strong>, W. Xu, A. Ayinure (2026). SDSS Multi-band Photometric Table Data Celestial Body Classification Based on Feature Token Transformer (FT-Transformer). <strong>Innovation and Technology Frontier</strong>.
+
+- <strong>L. Zhao</strong>, W. Xu, B. Zhang (2026). Research on Agricultural Ecosystem Dynamics and Optimal Control Based on Lotka-Volterra and Improved Cobb-Douglas Function. <strong>Innovation and Technology Frontier</strong>.
+
+- <strong>C. Li</strong>, Y. Li, B. Zhang (2026). Dual-stream Representation Learning and Native Counterfactual Explanation Generation Network for Imbalanced Credit Assessment. <strong>Innovation and Technology Frontier</strong>.
+
+- <strong>X. Li</strong>, M. Maimaitiaili, A. Ayinure (2026). Deep Learning Wind Power Generation Prediction Model Based on Periodic Numerical Feature Embedding. <strong>Innovation and Technology Frontier</strong>.
+
+
+#### Intellectual Property & Datasets
+
+- <strong>W. Sun</strong>, X. Du, Y. Zhao, G. Li (2026). CHORUS: Uyghur Text Classification Dataset. <strong>Zenodo</strong>. [[Dataset]](https://doi.org/10.5281/zenodo.18804285)
+
+- <strong>X. Du</strong>, W. Sun (2025). Logo of E+ Studio, School of Computer Science and Technology, Kashgar University. <strong>Artwork Registration</strong>. (Registration No.: 国作登字-2025-F-00074968)
+
+- <strong>H. Liu</strong>, S. Ji, W. Sun, C. Chong, X. Du (2024). "Biyu Huitong" National Greening Area Detection and Visualization Software V1.0. <strong>Software Copyright</strong>. (Registration No.: 2024SR2151596)
+
+- <strong>W. Sun</strong>, X. Du (2024). Evaluation Software for RGOS Virtual Device Running on PC V1.0. <strong>Software Copyright</strong>. (Registration No.: 2024SR1663891)
+
+- <strong>C. Chong</strong>, Y. Li, H. Yan (2024). Second Prize (Undergraduate Group), Asia and Pacific Mathematical Contest in Modeling (APMCM). <strong>Beijing Society of Image and Graphics</strong>.
+
+- <strong>X. Wei</strong>, W. Sun (2024). Intelligent Detection Software for Mechanical Manufacturing Equipment Operation V1.0. <strong>Software Copyright</strong>. (Registration No.: 2024SR1332363)
+
+- <strong>X. Wei</strong>, W. Sun (2024). Energy Consumption Monitoring Platform for Mechanical Manufacturing Equipment V1.0. <strong>Software Copyright</strong>. (Registration No.: 2024SR1327813)
+
+- <strong>S. Ji</strong>, W. Sun (2024). Security Guardian Data Protection System V1.0. <strong>Software Copyright</strong>. (Registration No.: 2024SR1322099)
